@@ -1,5 +1,4 @@
 #Getting and Cleaning Data Course Project
-
 This project creates a tidy dataset from the data obtained from the following dataset:
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
